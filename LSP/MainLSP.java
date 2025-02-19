@@ -1,4 +1,4 @@
-public class Main {
+public class MainLSP {
     public static void main(String[] args) {
         Eagle eagle = new Eagle();
         Ostrich ostrich = new Ostrich();
