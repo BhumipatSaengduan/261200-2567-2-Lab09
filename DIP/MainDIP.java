@@ -1,4 +1,4 @@
-public class Main {
+public class MainDIP {
     public static void main(String[] args) {
         EmailNotifier emailNotifier = new EmailNotifier();
         SMSNotifier smsNotifier = new SMSNotifier();
